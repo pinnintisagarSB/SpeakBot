@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000;
+}
+html{
+    font-size: 62.5%;
+}
+h1{
+    font-size: 2rem;
+    margin: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+    color: #fff;
+}
+#add{
+    margin: 1rem .5rem;
+    font-size: 1.6rem;
+    margin-bottom: .5rem;
+    height: 4rem;
+    width: 70%;
+    align-items: center;
+    border-radius: 50rem;
+    outline: none;
+    border: transparent;
+    background: rgb(248, 8, 48);
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+}
+.audio{
+    margin-top: .5rem;
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 50%;
+    background-color: #fff;
+}
+#lis{
+    margin: 1rem .5rem;
+    font-size: 1.6rem;
+    margin-bottom: .5rem;
+    height: 4rem;
+    width: 50%;
+    align-items: center;
+    border-radius: 50rem;
+    outline: none;
+    border: transparent;
+    background: rgb(248, 8, 48);
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+}
+#stop{
+    margin: 1rem 3rem;
+    font-size: 1.8rem;
+    margin-bottom: .5rem;
+    height: 4rem;
+    width: 50%;
+    align-items: center;
+    border-radius: 50rem;
+    outline: none;
+    border: transparent;
+    background: rgb(248, 8, 48);
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+}
+.copy{
+    margin-top: .5rem;
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 50%;
+    background-color: #fff;
+}
+#resu{
+    margin: 1rem .5rem;
+    font-size: 1.8rem;
+    margin-bottom: .5rem;
+    height: 4rem;
+    width: 50%;
+    align-items: center;
+    border-radius: 50rem;
+    outline: none;
+    border: transparent;
+    background: rgb(248, 8, 48);
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+}
+.fa-play ,.fa-stop-circle-o,.fa-download{
+    background: transparent;
+}
+.fa-pause{
+    background: transparent;
+}
+#save{
+    margin: 1rem .5rem;
+    font-size: 1.6rem;
+    margin-bottom: .5rem;
+    height: 4rem;
+    width: 50%;
+    align-items: center;
+    border-radius: 50rem;
+    outline: none;
+    border: transparent;
+    background: rgb(248, 8, 48);
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+}
